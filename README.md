@@ -1,4 +1,2 @@
-# hello-world
+# hello-world for GitHub
 seeing how things work here
-
-I am excited to learn and use Github 
